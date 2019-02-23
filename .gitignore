@@ -332,3 +332,7 @@ ASALocalRun/
 /MainPProg/MainPProg/MainPProg.vcxproj.filters
 /MainPProg/MainPProg.sln
 /SFML
+/LauncherMain/LauncherMain.sln
+/LauncherMain/LauncherMain/LauncherMain.vcxproj
+/LauncherMain/LauncherMain/LauncherMain.vcxproj.filters
+/LauncherMain/LauncherMain
