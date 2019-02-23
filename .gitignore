@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Main/.vs/Main/v15
+/Main/Main/Main.vcxproj
+/Main/Main/Main.vcxproj.filters
+/Main/Main/Main.vcxproj.user
+/Main/Main.sln
